@@ -92,6 +92,7 @@ header{
     justify-content: center;
     flex-flow: column;
     text-align: center;
+    padding: 0 10px;
 }
 
 .des {
@@ -114,12 +115,12 @@ header .user img{
 }
 
 header .user .name{
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     color: #fff;
 }
 
 header .user .post{
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #eee;
 }
 header .navbar{
