@@ -237,6 +237,11 @@ header .navbar ul li a:hover{
     color: #fff;
 }
 
+.label {
+    display: inline-block;
+    width: 120px; /* Adjust spacing width */
+  }
+
 .education .box-container{
     display: flex;
     align-items: center;
